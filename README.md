@@ -1,6 +1,5 @@
 # 💫 About Me:
-## Anubhav Kumar
-**Python Developer | Rust Student | CS Undergraduate**
+## Anubhav Kumar<br>**Python Developer | Rust Student | CS Undergraduate**
 
 ### 🛠 Technical Proficiency
 | Domain | Technology/Concept |
