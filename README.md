@@ -1,6 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML-based application<br>🌱 I’m currently learning Rust and System Design fundamentals<br>🧠 Interests: AI, Blockchain, and Distributed Systems<br>🐍 Core Language: Python.
+### 🛠 Technical Proficiency
+| Domain | Technology/Concept |
+| :----- | :----------------- |
+| **Core Language** | **Python** (Advanced usage for logic & automation) |
+| **Systems Prog.** | **Rust** (Focus on memory safety & borrow checker) |
+| **Theory** | System Design, Distributed Systems, ML Architecture |
 
+### 🔭 Current Work
+I am currently developing a complex **AI/ML-based solutions**. 
+* *Status:* Active Development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/real-anubhav-kumar) 
