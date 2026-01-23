@@ -1,4 +1,8 @@
 # 💫 About Me:
+## Anubhav Kumar
+
+**Python Developer | Rust Student | CS Undergraduate**
+
 ### 🛠 Technical Proficiency
 | Domain | Technology/Concept |
 | :----- | :----------------- |
@@ -7,8 +11,8 @@
 | **Theory** | System Design, Distributed Systems, ML Architecture |
 
 ### 🔭 Current Work
-I am currently developing a complex **AI/ML-based solutions**. 
-* *Status:* Active Development.
+> **Status:** `Building in Stealth`  
+> Currently architecting a proprietary AI/ML solution.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/real-anubhav-kumar) 
