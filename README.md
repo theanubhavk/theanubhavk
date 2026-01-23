@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Anubhav Kumar
+### Anubhav Kumar
 > **Python Developer | Rust Student | CS Undergraduate**
 
 
