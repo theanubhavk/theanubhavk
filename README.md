@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">
+<h1>
   Anubhav Kumar
   <br>
   <small>Python Developer | Rust Student | CS Undergraduate</small>
