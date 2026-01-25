@@ -1,7 +1,5 @@
 ## Hi there! 👋
-I'm **Anubhav**,
-
-`Python Developer | Rust Student`
+I'm **Anubhav**, **Python** Dev
 
 
 ### 🛠 Technical Proficiency
