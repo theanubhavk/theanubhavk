@@ -10,7 +10,7 @@
 | Domain | Technology/Concept |
 | :----- | :----------------- |
 | **Core Language** | **Python** (Advanced usage for logic & automation) |
-| **Systems Prog.** | **Rust** (Focus on memory safety & borrow checker) |
+| **Systems Prog.** | **Rust** (Focus on memory safety) |
 | **Theory** | System Design, Distributed Systems, ML Architecture |
 
 
