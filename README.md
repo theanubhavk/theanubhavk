@@ -1,6 +1,7 @@
 ## Hi there! 👋
-I'm **Anubhav**, **Python** Dev
+I'm **Anubhav**, **Python** Dev 🐍
 
+Acquiring proficiency in `🦀 Rust ` to leverage performance, safety and complex problem solving.
 
 ### 🛠 Technical Proficiency
 | Domain | Technology/Concept |
