@@ -1,8 +1,7 @@
-<h2>
-  Anubhav Kumar
-  <br>
-</h2>
-<small>Python Developer | Rust Student | CS Undergraduate</small>
+## Hi there! 👋
+I'm **Anubhav**,
+
+> Python Developer | Rust Student
 
 
 ### 🛠 Technical Proficiency
