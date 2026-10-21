@@ -8,7 +8,7 @@ Acquiring proficiency in `🦀 Rust ` to leverage performance, safety and comple
 | :----- | :----------------- |
 | **Core Language** | **Python** (Advanced usage for logic & automation) |
 | **Systems Prog.** | **Rust** (Focus on memory safety) |
-| **Theory** | System Design, Distributed Systems, ML Architecture |
+| **Other** | System Design, Distributed Systems, ML Architecture |
 
 ### 🤝 Connect
 I am looking for serious **Open Source collaborators**. If you are working on a project that prioritizes clean architecture and complex problem solving, let's connect.
