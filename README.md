@@ -7,7 +7,7 @@ Acquiring proficiency in `🦀 Rust ` to leverage performance, safety and comple
 | Domain | Technology/Concept |
 | :----- | :----------------- |
 | **Core Language** | **Python** (Advanced usage for logic & automation) |
-| **Systems Prog.** | **Rust** (Focus on memory safety) |
+| **Systems Prog.** | **Rust** |
 | **Other** | System Design, Distributed Systems, ML Architecture |
 
 ### 🤝 Connect
